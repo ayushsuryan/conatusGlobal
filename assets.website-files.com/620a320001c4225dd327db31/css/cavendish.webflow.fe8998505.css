@@ -2388,13 +2388,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.3)),
       to(rgba(10, 0, 47, 0.3))
     ),
-    url("https://assets.website-files.com/620a320001c4225dd327db31/6231d728aee11db19ceb86f6_peter-oswald-GWvMtSiYHWI-unsplash-min.png");
+    url("/assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.3),
       rgba(10, 0, 47, 0.3)
     ),
-    url("https://assets.website-files.com/620a320001c4225dd327db31/6231d728aee11db19ceb86f6_peter-oswald-GWvMtSiYHWI-unsplash-min.png");
+    url("/assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;

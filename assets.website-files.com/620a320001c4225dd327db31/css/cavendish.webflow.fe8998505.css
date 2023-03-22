@@ -2213,7 +2213,7 @@ blockquote {
 .container.history {
   padding-top: 5em;
   padding-bottom: 5em;
-  background-image: url("./assets.website-files.com/620a320001c4225dd327db31/logo_outline.svg");
+  background-image: url("/assets.website-files.com/620a320001c4225dd327db31/logo_outline.svg");
   background-position: 50% 50%;
   background-size: 31.55em;
   background-repeat: no-repeat;
@@ -2388,13 +2388,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.3)),
       to(rgba(10, 0, 47, 0.3))
     ),
-    url("./assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
+    url("/assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.3),
       rgba(10, 0, 47, 0.3)
     ),
-    url("./assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
+    url("/assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;
@@ -2408,27 +2408,27 @@ blockquote {
       from(rgba(10, 0, 47, 0.5)),
       to(rgba(10, 0, 47, 0.5))
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/6231d77adfcc9f3e35343ee7_pj-gal-szabo-orz7-r2NoCY-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/6231d77adfcc9f3e35343ee7_pj-gal-szabo-orz7-r2NoCY-unsplash-min.png");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.5),
       rgba(10, 0, 47, 0.5)
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/6231d77adfcc9f3e35343ee7_pj-gal-szabo-orz7-r2NoCY-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/6231d77adfcc9f3e35343ee7_pj-gal-szabo-orz7-r2NoCY-unsplash-min.png");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
 }
 
 .section.top.article {
-  background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
+  background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: repeat;
 }
 
 .section.top.case-study {
-  background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
+  background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
   background-position: 50% 100%;
   background-size: cover;
   background-repeat: repeat;
@@ -2443,13 +2443,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.5)),
       to(rgba(10, 0, 47, 0.5))
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f650dc3f36e8e3b1a34af_serge-le-strat-oADX_ZHXjlo-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/622f650dc3f36e8e3b1a34af_serge-le-strat-oADX_ZHXjlo-unsplash-min.png");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.5),
       rgba(10, 0, 47, 0.5)
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f650dc3f36e8e3b1a34af_serge-le-strat-oADX_ZHXjlo-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/622f650dc3f36e8e3b1a34af_serge-le-strat-oADX_ZHXjlo-unsplash-min.png");
   background-position: 0px 0px, 50% 50%;
 }
 
@@ -2461,13 +2461,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.5)),
       to(rgba(10, 0, 47, 0.5))
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f686a880997bf6a8dd85f_eduardo-jorquera-zQpB6zBhEMg-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/622f686a880997bf6a8dd85f_eduardo-jorquera-zQpB6zBhEMg-unsplash-min.png");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.5),
       rgba(10, 0, 47, 0.5)
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f686a880997bf6a8dd85f_eduardo-jorquera-zQpB6zBhEMg-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/622f686a880997bf6a8dd85f_eduardo-jorquera-zQpB6zBhEMg-unsplash-min.png");
   background-position: 0px 0px, 100% 50%;
   background-size: auto, auto 130%;
 }
@@ -2480,13 +2480,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.5)),
       to(rgba(10, 0, 47, 0.5))
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.5),
       rgba(10, 0, 47, 0.5)
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
 }
 
 .section.top.investors {
@@ -2497,13 +2497,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.5)),
       to(rgba(10, 0, 47, 0.5))
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/6231d5e84dfaca2eaa8997a5_scottsdale-mint-l4YPxIcZitc-unsplash%20(1)-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/6231d5e84dfaca2eaa8997a5_scottsdale-mint-l4YPxIcZitc-unsplash%20(1)-min.png");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.5),
       rgba(10, 0, 47, 0.5)
     ),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/6231d5e84dfaca2eaa8997a5_scottsdale-mint-l4YPxIcZitc-unsplash%20(1)-min.png");
+    url("https://assets.website-files.com/620a320001c4225dd327db31/6231d5e84dfaca2eaa8997a5_scottsdale-mint-l4YPxIcZitc-unsplash%20(1)-min.png");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;
@@ -2525,9 +2525,9 @@ blockquote {
   align-items: center;
   border-bottom: 1px solid #f6f2f1;
   background-color: #0a002f;
-  background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg"),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg");
+  background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg"),
+    url("https://assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
+    url("https://assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg");
   background-position: 50% 100.5%, 100% 50%, 0% 50%;
   background-size: 8.25em, auto 34.57em, auto 34.57em;
   background-repeat: no-repeat, no-repeat, no-repeat;
@@ -2550,10 +2550,10 @@ blockquote {
   border-top: 1px solid #f6f2f1;
   border-bottom: 1px solid #f6f2f1;
   background-color: #0a002f;
-  background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg"),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a76c3087279c146b20014_white-triangle-top.svg"),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg");
+  background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg"),
+    url("https://assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
+    url("https://assets.website-files.com/620a320001c4225dd327db31/620a76c3087279c146b20014_white-triangle-top.svg"),
+    url("https://assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg");
   background-position: 0% 50%, 100.5% 50%, 50% 0%, 50% 100.5%;
   background-size: auto 34.57em, auto 34.57em, 8.25em, 8.25em;
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
@@ -2605,8 +2605,8 @@ blockquote {
 }
 
 .section.case-study {
-  background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg"),
-    url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg");
+  background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg"),
+    url("https://assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg");
   background-position: 0% 50%, 100% 50%;
   background-size: auto 30em, auto 30em;
   background-repeat: no-repeat, no-repeat;
@@ -2760,7 +2760,7 @@ blockquote {
   grid-template-columns: 1fr 1fr auto;
   -ms-grid-rows: 11.18em 1fr auto;
   grid-template-rows: 11.18em 1fr auto;
-  background-image: url("./assets.website-files.com/620a320001c4225dd327db31/logo_outline.svg");
+  background-image: url("/assets.website-files.com/620a320001c4225dd327db31/logo_outline.svg");
   background-position: 100% 50%;
   background-size: auto 35em;
   background-repeat: no-repeat;
@@ -2959,7 +2959,7 @@ blockquote {
 
 .testimonials-wrapper {
   width: 45.63em;
-  background-image: url("./assets.website-files.com/620a320001c4225dd327db31/620a757860be0c23cdda42b8_background-gold-logomark.svg");
+  background-image: url("/assets.website-files.com/620a320001c4225dd327db31/620a757860be0c23cdda42b8_background-gold-logomark.svg");
   background-position: 50% 0%;
   background-size: auto 90%;
   background-repeat: no-repeat;
@@ -3426,7 +3426,7 @@ blockquote {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620c176ac2ccea020a91520d_gold-line.svg");
+  background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620c176ac2ccea020a91520d_gold-line.svg");
   background-position: 50% 50%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -4366,9 +4366,9 @@ blockquote {
         from(null),
         to(null)
       ),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
     background-image: linear-gradient(180deg, null, null),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a404ebb0f984206c6f5ab_top-fold-home.png");
     background-position: 0px 0px, 50% 0%;
   }
 
@@ -5037,21 +5037,21 @@ blockquote {
         from(rgba(10, 0, 47, 0.4)),
         to(rgba(10, 0, 47, 0.4))
       ),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
+      url("https://assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
     background-image: linear-gradient(
         180deg,
         rgba(10, 0, 47, 0.4),
         rgba(10, 0, 47, 0.4)
       ),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
+      url("https://assets.website-files.com/620a320001c4225dd327db31/622f735ae9d4fa0f5f25ac60_siora-photography-PtMu7D9AhEs-unsplash-min.png");
     background-position: 0px 0px, 80% 50%;
   }
 
   .section.ethos {
     height: 100vh;
-    background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg"),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg");
+    background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg"),
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg");
     background-position: 50% 100.5%, 100% 85vh, 0% 85vh;
     background-size: 8.25em, auto 30em, auto 30em;
     background-repeat: no-repeat, no-repeat, no-repeat;
@@ -5061,10 +5061,10 @@ blockquote {
     height: auto;
     padding-top: 5em;
     padding-bottom: 5em;
-    background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg"),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a76c3087279c146b20014_white-triangle-top.svg"),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg");
+    background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620a5717376a1e016bec74f9_gold-decor-left.svg"),
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a57176e61816c53df39d2_gold-decor-right.svg"),
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a76c3087279c146b20014_white-triangle-top.svg"),
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620a57be221965372c695d6a_white-triangle.svg");
     background-position: 0% 165%, 100% 165%, 50% -1px, 50% 100.5%;
     background-size: auto 30em, auto 30em, 8.25em, 8.25em;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
@@ -5106,7 +5106,7 @@ blockquote {
     grid-template-columns: 1fr 1fr 1fr;
     -ms-grid-rows: auto auto;
     grid-template-rows: auto auto;
-    background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620c176ac2ccea020a91520d_gold-line.svg");
+    background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620c176ac2ccea020a91520d_gold-line.svg");
     background-position: 50% 50%;
     background-size: auto 1px;
     background-repeat: no-repeat;
@@ -5330,8 +5330,8 @@ blockquote {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    background-image: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620f9458810a6f4f791019e9_Line%2035.svg"),
-      url("https:/./assets.website-files.com/620a320001c4225dd327db31/620c176ac2ccea020a91520d_gold-line.svg");
+    background-image: url("https://assets.website-files.com/620a320001c4225dd327db31/620f9458810a6f4f791019e9_Line%2035.svg"),
+      url("https://assets.website-files.com/620a320001c4225dd327db31/620c176ac2ccea020a91520d_gold-line.svg");
     background-position: 50% 50%, 50% 50%;
     background-size: auto 100%, 100%;
     background-repeat: no-repeat, no-repeat;
@@ -10253,7 +10253,7 @@ blockquote {
 }
 @font-face {
   font-family: "Gilroy";
-  src: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a349a26050cef1dee1863_Gilroy-SemiBoldItalic.woff")
+  src: url("https://assets.website-files.com/620a320001c4225dd327db31/620a349a26050cef1dee1863_Gilroy-SemiBoldItalic.woff")
     format("woff");
   font-weight: 600;
   font-style: italic;
@@ -10261,7 +10261,7 @@ blockquote {
 }
 @font-face {
   font-family: "Gilroy";
-  src: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a349b0b70dc78056591d6_Gilroy-SemiBold.woff")
+  src: url("https://assets.website-files.com/620a320001c4225dd327db31/620a349b0b70dc78056591d6_Gilroy-SemiBold.woff")
     format("woff");
   font-weight: 600;
   font-style: normal;
@@ -10269,7 +10269,7 @@ blockquote {
 }
 @font-face {
   font-family: "Gilroy";
-  src: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a33a3460a0858dc601c73_Gilroy-Medium.woff")
+  src: url("https://assets.website-files.com/620a320001c4225dd327db31/620a33a3460a0858dc601c73_Gilroy-Medium.woff")
     format("woff");
   font-weight: 500;
   font-style: normal;
@@ -10277,7 +10277,7 @@ blockquote {
 }
 @font-face {
   font-family: "Gilroy";
-  src: url("https:/./assets.website-files.com/620a320001c4225dd327db31/620a33a31a7ef7adb56e77f1_Gilroy-MediumItalic.woff")
+  src: url("https://assets.website-files.com/620a320001c4225dd327db31/620a33a31a7ef7adb56e77f1_Gilroy-MediumItalic.woff")
     format("woff");
   font-weight: 500;
   font-style: italic;

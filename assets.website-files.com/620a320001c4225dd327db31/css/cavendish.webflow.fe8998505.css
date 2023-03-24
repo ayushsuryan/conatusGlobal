@@ -1,8 +1,4 @@
-/* Generated on: Tue Feb 21 2023 15:54:49 GMT+0000 (Coordinated Universal Time) */
-/* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-   ========================================================================== */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -2388,13 +2384,13 @@ blockquote {
       from(rgba(10, 0, 47, 0.3)),
       to(rgba(10, 0, 47, 0.3))
     ),
-    url("/assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
+    url("assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
   background-image: linear-gradient(
       180deg,
       rgba(10, 0, 47, 0.3),
       rgba(10, 0, 47, 0.3)
     ),
-    url("/assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
+    url("assets.website-files.com/620a320001c4225dd327db31/bg_img.jpeg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;

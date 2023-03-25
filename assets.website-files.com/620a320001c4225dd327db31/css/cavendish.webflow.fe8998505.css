@@ -2209,7 +2209,7 @@ blockquote {
 .container.history {
   padding-top: 5em;
   padding-bottom: 5em;
-  background-image: url("/assets.website-files.com/620a320001c4225dd327db31/logo_outline.svg");
+  background-image: url("../logo_outline.svg");
   background-position: 50% 50%;
   background-size: 31.55em;
   background-repeat: no-repeat;
@@ -2756,7 +2756,7 @@ blockquote {
   grid-template-columns: 1fr 1fr auto;
   -ms-grid-rows: 11.18em 1fr auto;
   grid-template-rows: 11.18em 1fr auto;
-  background-image: url("/assets.website-files.com/620a320001c4225dd327db31/logo_outline.svg");
+  background-image: url("../logo_outline.svg");
   background-position: 100% 50%;
   background-size: auto 35em;
   background-repeat: no-repeat;

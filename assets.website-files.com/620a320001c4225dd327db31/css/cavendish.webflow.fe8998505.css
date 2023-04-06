@@ -2609,8 +2609,6 @@ blockquote {
 }
 
 .navbar {
-  position: -webkit-sticky;
-  position: sticky;
   top: 0px;
   z-index: 100;
   display: -webkit-box;
@@ -5076,8 +5074,6 @@ blockquote {
   }
 
   .navbar {
-    position: -webkit-sticky;
-    position: sticky;
     height: 8em;
   }
 

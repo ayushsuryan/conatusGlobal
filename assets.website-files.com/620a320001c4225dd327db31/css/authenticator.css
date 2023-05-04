@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.mobile{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 1fr 1fr;
+    background-color: #000113;
+}
+.upper{
+    background: url('Subtract.jpg');
+    background-size: 100% 100%;
+    border: none;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr; 
+}
+.lower{
+    border: none;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr; 
+}
+
+.brand > img{
+    width: 70%;
+}
+
+
+
+.mobile > img{
+    position: absolute;
+    width: 100%;
+}
+
+.title, .brand, .input-1,.input-2, .request{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    z-index: 1;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title{
+    color: white;
+    font-size: 18px;
+}
+
+.input{
+    margin: auto;
+}
+
+.input{
+    padding: 25px 0px;
+}
+
+.input-1 > input {
+    width: 80%;
+    background-color: #000113;
+    border: none;
+    height: 38px;
+    outline:none !important;
+    color: #334155;
+    font-size: 30px;
+}
+
+.input-1 > input:focus {
+    color: #334155;
+}
+
+.input-1 > input::-webkit-input-placeholder {
+    color:#334155;
+    font-size: 15px;
+}
+
+.input > hr{
+    width: 80%;
+    margin: 10px auto;
+}
+
+.input-2 > button {
+    height: 40px;
+    width: 80%;
+    margin: 10px;
+    color: white;
+    background-color: #334155;
+    border: none;
+    border-radius: 5px;
+}
+
+.request > h3 {
+    color: #334155;
+    font-weight: 100;
+    margin: auto;
+    text-align: center;
+}
+
+#request_link{
+    margin: auto;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.logo{
+    display: none;
+}
+
+.area{
+    display: none;
+}
+
+@media only screen and (min-width: 600px) {
+
+    .area{
+        display: block;
+    }
+    .logo{
+        display: block;
+    }
+    .upper{
+        display: none;
+    }
+    .mobile > img{
+        display: none;
+    }
+    .request{
+        display: none;
+    }
+    .lower{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .input{
+        border-top: 10px solid #31EBFD ;
+        width: 400px;
+        height: 400px;
+        background-color: white;
+        border-radius: 0px 0px 20px 20px;
+    }
+    .input>.logo>img{
+        width: 70%;
+        margin: 15px auto;
+    }
+    .logo{
+        text-align: center;
+    }
+
+    .input-1 > input {
+        font-size: medium;
+        background: none;
+        margin-top: 15px;
+    }
+
+    .mobile{
+        background: none
+    }
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Exo', sans-serif;
+}
+
+
+.context {
+    width: 100%;
+    position: absolute;
+    top:50vh;
+    
+}
+
+.context h1{
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+}
+
+
+.area{
+    background: black;  
+    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
+    width: 100%;
+    height:100vh;
+    position: absolute;
+    z-index: -1;
+   
+}
+
+.circles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.circles li{
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    background: #31EBFD;
+    animation: animate 25s linear infinite;
+    bottom: -150px;
+    
+}
+
+.circles li:nth-child(1){
+    left: 25%;
+    width: 80px;
+    height: 80px;
+    animation-delay: 0s;
+}
+
+
+.circles li:nth-child(2){
+    left: 10%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 2s;
+    animation-duration: 12s;
+}
+
+.circles li:nth-child(3){
+    left: 70%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 4s;
+}
+
+.circles li:nth-child(4){
+    left: 40%;
+    width: 60px;
+    height: 60px;
+    animation-delay: 0s;
+    animation-duration: 18s;
+}
+
+.circles li:nth-child(5){
+    left: 65%;
+    width: 20px;
+    height: 20px;
+    animation-delay: 0s;
+}
+
+.circles li:nth-child(6){
+    left: 75%;
+    width: 110px;
+    height: 110px;
+    animation-delay: 3s;
+}
+
+.circles li:nth-child(7){
+    left: 35%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 7s;
+}
+
+.circles li:nth-child(8){
+    left: 50%;
+    width: 25px;
+    height: 25px;
+    animation-delay: 15s;
+    animation-duration: 45s;
+}
+
+.circles li:nth-child(9){
+    left: 20%;
+    width: 15px;
+    height: 15px;
+    animation-delay: 2s;
+    animation-duration: 35s;
+}
+
+.circles li:nth-child(10){
+    left: 85%;
+    width: 150px;
+    height: 150px;
+    animation-delay: 0s;
+    animation-duration: 11s;
+}
+
+
+
+@keyframes animate {
+
+    0%{
+        transform: translateY(0) rotate(0deg);
+        opacity: 1;
+        border-radius: 0;
+    }
+
+    100%{
+        transform: translateY(-1000px) rotate(720deg);
+        opacity: 0;
+        border-radius: 50%;
+    }
+
+}

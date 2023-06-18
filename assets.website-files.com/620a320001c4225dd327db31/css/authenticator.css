@@ -144,7 +144,7 @@
         align-items: center;
     }
     .input{
-        border-top: 10px solid #31EBFD ;
+        border-top: 10px solid #9F7748 ;
         width: 400px;
         height: 400px;
         background-color: white;
@@ -221,7 +221,7 @@ body{
     list-style: none;
     width: 20px;
     height: 20px;
-    background: #31EBFD;
+    background: #9F7748;
     animation: animate 25s linear infinite;
     bottom: -150px;
     
